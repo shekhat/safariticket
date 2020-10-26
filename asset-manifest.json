@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/safariticket/static/css/main.528236cc.chunk.css",
+    "main.js": "/safariticket/static/js/main.2cc59543.chunk.js",
+    "main.js.map": "/safariticket/static/js/main.2cc59543.chunk.js.map",
+    "runtime-main.js": "/safariticket/static/js/runtime-main.27af5f6f.js",
+    "runtime-main.js.map": "/safariticket/static/js/runtime-main.27af5f6f.js.map",
+    "static/css/2.b0d70484.chunk.css": "/safariticket/static/css/2.b0d70484.chunk.css",
+    "static/js/2.152b51a5.chunk.js": "/safariticket/static/js/2.152b51a5.chunk.js",
+    "static/js/2.152b51a5.chunk.js.map": "/safariticket/static/js/2.152b51a5.chunk.js.map",
+    "index.html": "/safariticket/index.html",
+    "precache-manifest.573fccdc413f20594ba73c6544de88fd.js": "/safariticket/precache-manifest.573fccdc413f20594ba73c6544de88fd.js",
+    "service-worker.js": "/safariticket/service-worker.js",
+    "static/css/2.b0d70484.chunk.css.map": "/safariticket/static/css/2.b0d70484.chunk.css.map",
+    "static/css/main.528236cc.chunk.css.map": "/safariticket/static/css/main.528236cc.chunk.css.map",
+    "static/js/2.152b51a5.chunk.js.LICENSE.txt": "/safariticket/static/js/2.152b51a5.chunk.js.LICENSE.txt",
+    "static/media/Accommodation.jpg": "/safariticket/static/media/Accommodation.44aebabf.jpg",
+    "static/media/Airplane2.jpg": "/safariticket/static/media/Airplane2.f8631abd.jpg",
+    "static/media/Boat2.jpg": "/safariticket/static/media/Boat2.59fdb0cb.jpg",
+    "static/media/Bus2.png": "/safariticket/static/media/Bus2.1325f734.png",
+    "static/media/Food.jpg": "/safariticket/static/media/Food.a9437ce6.jpg",
+    "static/media/Taxi.jpg": "/safariticket/static/media/Taxi.3fa4a3d9.jpg",
+    "static/media/Train2.jpg": "/safariticket/static/media/Train2.24167045.jpg",
+    "static/media/logo.png": "/safariticket/static/media/logo.7de2b364.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27af5f6f.js",
+    "static/css/2.b0d70484.chunk.css",
+    "static/js/2.152b51a5.chunk.js",
+    "static/css/main.528236cc.chunk.css",
+    "static/js/main.2cc59543.chunk.js"
+  ]
+}
