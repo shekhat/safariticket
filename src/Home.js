@@ -7,7 +7,7 @@ import Bus2 from './Bus2.png'
 import Airplane2 from './Airplane2.jpg'
 import Boat2 from './Boat2.jpg'
 
-
+  
 
 import Slider from 'react-animated-slider';
 import horizontalCss from 'react-animated-slider/build/horizontal.css';
